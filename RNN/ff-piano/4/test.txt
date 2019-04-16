@@ -1,0 +1,1 @@
+additional lstm + dropout 0.5

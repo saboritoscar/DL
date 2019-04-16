@@ -1,0 +1,1 @@
+0.3 dropout for the 4th network

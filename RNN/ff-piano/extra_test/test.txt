@@ -1,0 +1,1 @@
+New test changing a little bit the data distribution, only supporting 5 different offset times ( 0.25, 0.5, 1, 2, 5). with that, I aimed to reduce the number of classes that I found in the previous models, but at the same time allowing the model to have different timings between notes.
