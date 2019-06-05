@@ -1,0 +1,7 @@
+5 element batch: 0.9841
+10 element batch: 0.9848
+
+going in different order (20 epochs): 0.9922
+
+normal (20 epochs): 0.9924
+normal (10 epochs): 0.9912

@@ -1,0 +1,7 @@
+
+
+Accuracies:
+
+adagrad-> 0.90510005
+adam -> 0.9175
+gradient descent -> 0.0.90790004
